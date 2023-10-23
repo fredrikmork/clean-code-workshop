@@ -28,6 +28,14 @@ Q: What do you associate with clean code?
 
 Use your knowledge and the piece of information you have just learned to tidy up the already working code. Maybe you found an error within the program?
 
+Rules for number to roman numerals and vice versa:
+
+Choose one of the following:
+- a) Identify errors and improve the code [presentation-code](https://github.com/fredrikmork/clean-code-workshop/presentation-code/Program.cs) There is a [proposed-solution](https://github.com/fredrikmork/clean-code-workshop/proposed-solution/Program.cs)
+- b) Build them from scratch in your prefered language.
+
+Pro tip: use this online compiler [online compiler](https://www.programiz.com/csharp-programming/online-compiler/)
+
 ## Part 3:
 *Length: 20-30 minutes*
 You can either choose option *a)* or option *b)*.
