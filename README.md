@@ -43,7 +43,7 @@ using System.Collections.Generic;
 using System;
 using System.Linq;
 
-public class HelloWorld
+public class RomanNumeralsConverter
 {
    -> Here for the proposed solution
 
