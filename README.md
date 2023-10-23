@@ -28,7 +28,8 @@ Q: What do you associate with clean code?
 
 Use your knowledge and the piece of information you have just learned to tidy up the already working code. Maybe you found an error within the program?
 
-Rules for number to roman numerals and vice versa:
+[Rules for number to roman numerals and vice versa](https://www.toppr.com/guides/maths/knowing-our-numbers/roman-numerals/)
+
 
 Choose one of the following:
 - a) Identify errors and improve the code [presentation-code](https://github.com/fredrikmork/clean-code-workshop/blob/main/presentation-code/presentation-code/Program.cs) There is a [proposed-solution](https://github.com/fredrikmork/clean-code-workshop/blob/main/presentation-code/proposed-solution/Program.cs)
