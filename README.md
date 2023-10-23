@@ -29,14 +29,30 @@ Q: What do you associate with clean code?
 Use your knowledge and the piece of information you have just learned to tidy up the already working code. Maybe you found an error within the program?
 
 [Rules for number to roman numerals and vice versa](https://www.toppr.com/guides/maths/knowing-our-numbers/roman-numerals/)
+[Other site](https://www.teachoo.com/7478/2296/Roman-Numerals/category/Roman-numerals/)
 
 
 Choose one of the following:
 - a) Identify errors and improve the code [presentation-code](https://github.com/fredrikmork/clean-code-workshop/blob/main/presentation-code/presentation-code/Program.cs) There is a [proposed-solution](https://github.com/fredrikmork/clean-code-workshop/blob/main/presentation-code/proposed-solution/Program.cs)
 - b) Build them from scratch in your prefered language.
 
-Pro tip: use this online compiler [online compiler](https://www.programiz.com/csharp-programming/online-compiler/)
+Pro tip: you can use this online compiler [online compiler](https://www.programiz.com/csharp-programming/online-compiler/)
+If you want to test the code in the repo in this online compiler you must paste it inside the main program: 
+```
+using System.Collections.Generic;
+using System;
+using System.Linq;
 
+public class HelloWorld
+{
+   -> Here for the proposed solution
+
+    public static void Main(string[] args) //Delete this if you are using the proposed solution
+    {
+    -> Here for presentation-code
+    }
+}
+```
 ## Part 3:
 *Length: 20-30 minutes*
 You can either choose option *a)* or option *b)*.
