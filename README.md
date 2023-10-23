@@ -31,7 +31,7 @@ Use your knowledge and the piece of information you have just learned to tidy up
 Rules for number to roman numerals and vice versa:
 
 Choose one of the following:
-- a) Identify errors and improve the code [presentation-code](https://github.com/fredrikmork/clean-code-workshop/blob/main/presentation-code/presentation-code/Program.cs) There is a [proposed-solution](https://github.com/fredrikmork/clean-code-workshop/blob/main/proposed-solution/Program.cs)
+- a) Identify errors and improve the code [presentation-code](https://github.com/fredrikmork/clean-code-workshop/blob/main/presentation-code/presentation-code/Program.cs) There is a [proposed-solution](https://github.com/fredrikmork/clean-code-workshop/blob/main/presentation-code/proposed-solution/Program.cs)
 - b) Build them from scratch in your prefered language.
 
 Pro tip: use this online compiler [online compiler](https://www.programiz.com/csharp-programming/online-compiler/)
