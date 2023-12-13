@@ -1,5 +1,5 @@
 # Clean Code Workshop
-*Length: ~ 2,5 hours*
+*Length: ~ 3 hours*
 
 This module is split into five parts, and the course includes hands on coding, a lecture and presentations of the code you just made.
 
@@ -24,7 +24,7 @@ Q: What do you associate with clean code?
 - Example of Code Transformed From Bad Code To Clean Code
 
 ## Part 2: Improve the Code
-*Length: 60 minutes* 
+*Length: 90 minutes* 
 
 Use your knowledge and the piece of information you have just learned to tidy up the already working code. Maybe you found an error within the program?
 
